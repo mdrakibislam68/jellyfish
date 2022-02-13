@@ -1,0 +1,14 @@
+.wrapper{color:green;width:960px;margin:0 auto;background:#fff}
+body{font-family:arial; font-size:14px; line-height:22px;/* background:url(women-shoes-sadness-depression.jpg) repeat fixed;*/}
+.header
+.header img{width:960px;}
+.mainmenu{background:red}
+.mainmenu ul{margin:0;padding:0;}
+.mainmenu ul li{list-style:none;display:inline-block;}
+.mainmenu ul li a{display:inline-block;text-decoration:none;padding:10px;color:#fff}
+.mainmenu ul li a:hover{background:#000}
+.maincontent{overflow:hidden;padding:15px;}
+.content {color:green;width:610px;float:left;}
+.sidebar{width:300px;float:right;}
+.footer{background:red;margin:0px;padding:5px;color: #fff;}
+.table{border:#000;background:#fff;}
